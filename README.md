@@ -1,2 +1,2 @@
 # certificate
-Certificate for sucessfully completing Advance Excel and SQL course.
+Certificate for sucessfully completing Data Analysis with Data Visualisation course.
